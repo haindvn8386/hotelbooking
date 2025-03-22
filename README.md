@@ -1,4 +1,5 @@
 ![image](https://github.com/user-attachments/assets/32ee42de-a425-43e4-b6c5-edf05daa2a2e)
+
 Hotel Booking API
 
 This project is a RESTful API backend for a hotel booking system, built with Spring Boot and Lombok to streamline development. It supports multiple databases (PostgreSQL and SQL Server) for testing, managed via Docker containers. The API follows REST standards, providing endpoints for booking operations, and is designed for scalability and ease of integration.
